@@ -86,7 +86,13 @@ python walmart_report.py --store_num 45 --year_week 2011 36
 
 ---
 
-## 🔗 **참고 링크**
+## 참고 자료
+
+### 📄 **PPT 자료**
+- **프로젝트 설명 자료:**  
+  - [📑 PPT 보기](./report/ppt.pdf)  
+
+### 🔗 **참고 링크**
 - [Kaggle 대회 페이지](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 - [Datapane 공식 문서](https://datapane.com/)
 - [XGBoost 공식 문서](https://xgboost.readthedocs.io/)
