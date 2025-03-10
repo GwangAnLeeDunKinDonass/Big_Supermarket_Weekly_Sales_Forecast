@@ -1,0 +1,8 @@
+altair==5.5.0
+datapane==0.17.0
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==2.2.3
+scikit_learn==1.4.2
+seaborn==0.13.2
+tqdm==4.65.0
